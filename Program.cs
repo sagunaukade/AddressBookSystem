@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UC1_CreateContacts
+namespace AddressBookSystem
 {
     internal class Program
     {
@@ -12,7 +12,7 @@ namespace UC1_CreateContacts
         {
             Console.WriteLine("Welcome to the Address book system");
             Console.ReadLine();
-            AddressBook.PersonDetails();
+            
         }
     }
 }
