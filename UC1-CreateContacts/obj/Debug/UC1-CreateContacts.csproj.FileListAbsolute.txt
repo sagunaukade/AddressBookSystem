@@ -1,0 +1,7 @@
+C:\Users\ganes\source\repos\UC1-CreateContacts\UC1-CreateContacts\bin\Debug\UC1-CreateContacts.exe.config
+C:\Users\ganes\source\repos\UC1-CreateContacts\UC1-CreateContacts\bin\Debug\UC1-CreateContacts.exe
+C:\Users\ganes\source\repos\UC1-CreateContacts\UC1-CreateContacts\bin\Debug\UC1-CreateContacts.pdb
+C:\Users\ganes\source\repos\UC1-CreateContacts\UC1-CreateContacts\obj\Debug\UC1-CreateContacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\UC1-CreateContacts\UC1-CreateContacts\obj\Debug\UC1-CreateContacts.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\UC1-CreateContacts\UC1-CreateContacts\obj\Debug\UC1-CreateContacts.exe
+C:\Users\ganes\source\repos\UC1-CreateContacts\UC1-CreateContacts\obj\Debug\UC1-CreateContacts.pdb
