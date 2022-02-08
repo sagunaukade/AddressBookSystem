@@ -1,0 +1,7 @@
+C:\Users\ganes\source\repos\UC4-DeleteContacts\UC4-DeleteContacts\bin\Debug\UC4-DeleteContacts.exe.config
+C:\Users\ganes\source\repos\UC4-DeleteContacts\UC4-DeleteContacts\bin\Debug\UC4-DeleteContacts.exe
+C:\Users\ganes\source\repos\UC4-DeleteContacts\UC4-DeleteContacts\bin\Debug\UC4-DeleteContacts.pdb
+C:\Users\ganes\source\repos\UC4-DeleteContacts\UC4-DeleteContacts\obj\Debug\UC4-DeleteContacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\UC4-DeleteContacts\UC4-DeleteContacts\obj\Debug\UC4-DeleteContacts.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\UC4-DeleteContacts\UC4-DeleteContacts\obj\Debug\UC4-DeleteContacts.exe
+C:\Users\ganes\source\repos\UC4-DeleteContacts\UC4-DeleteContacts\obj\Debug\UC4-DeleteContacts.pdb
