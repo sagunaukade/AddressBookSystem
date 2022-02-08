@@ -1,8 +1,0 @@
-C:\Users\ganes\source\repos\AddressBookSystem\AddressBookSystem\bin\Debug\AddressBookSystem.exe.config
-C:\Users\ganes\source\repos\AddressBookSystem\AddressBookSystem\bin\Debug\AddressBookSystem.exe
-C:\Users\ganes\source\repos\AddressBookSystem\AddressBookSystem\bin\Debug\AddressBookSystem.pdb
-C:\Users\ganes\source\repos\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.AssemblyReference.cache
-C:\Users\ganes\source\repos\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.SuggestedBindingRedirects.cache
-C:\Users\ganes\source\repos\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.CoreCompileInputs.cache
-C:\Users\ganes\source\repos\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.exe
-C:\Users\ganes\source\repos\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.pdb
