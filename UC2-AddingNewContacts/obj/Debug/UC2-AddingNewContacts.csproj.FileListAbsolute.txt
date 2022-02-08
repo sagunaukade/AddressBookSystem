@@ -1,0 +1,8 @@
+C:\Users\ganes\source\repos\UC2-AddingNewContacts\UC2-AddingNewContacts\obj\Debug\UC2-AddingNewContacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\UC2-AddingNewContacts\UC2-AddingNewContacts\obj\Debug\UC2-AddingNewContacts.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\UC2-AddingNewContacts\UC2-AddingNewContacts\bin\Debug\UC2-AddingNewContacts.exe.config
+C:\Users\ganes\source\repos\UC2-AddingNewContacts\UC2-AddingNewContacts\bin\Debug\UC2-AddingNewContacts.exe
+C:\Users\ganes\source\repos\UC2-AddingNewContacts\UC2-AddingNewContacts\bin\Debug\UC2-AddingNewContacts.pdb
+C:\Users\ganes\source\repos\UC2-AddingNewContacts\UC2-AddingNewContacts\obj\Debug\UC2-AddingNewContacts.exe
+C:\Users\ganes\source\repos\UC2-AddingNewContacts\UC2-AddingNewContacts\obj\Debug\UC2-AddingNewContacts.pdb
+C:\Users\ganes\source\repos\UC2-AddingNewContacts\UC2-AddingNewContacts\obj\Debug\UC2-AddingNewContacts.csproj.AssemblyReference.cache
