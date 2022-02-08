@@ -1,0 +1,7 @@
+C:\Users\ganes\source\repos\UC3-EditExistingContact\UC3-EditExistingContact\bin\Debug\UC3-EditExistingContact.exe.config
+C:\Users\ganes\source\repos\UC3-EditExistingContact\UC3-EditExistingContact\bin\Debug\UC3-EditExistingContact.exe
+C:\Users\ganes\source\repos\UC3-EditExistingContact\UC3-EditExistingContact\bin\Debug\UC3-EditExistingContact.pdb
+C:\Users\ganes\source\repos\UC3-EditExistingContact\UC3-EditExistingContact\obj\Debug\UC3-EditExistingContact.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\UC3-EditExistingContact\UC3-EditExistingContact\obj\Debug\UC3-EditExistingContact.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\UC3-EditExistingContact\UC3-EditExistingContact\obj\Debug\UC3-EditExistingContact.exe
+C:\Users\ganes\source\repos\UC3-EditExistingContact\UC3-EditExistingContact\obj\Debug\UC3-EditExistingContact.pdb
